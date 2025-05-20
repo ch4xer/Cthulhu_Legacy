@@ -80,7 +80,7 @@ def extract_chapters(epub_paths, titles, output_dir) -> tuple[list[str], list[st
 
                                 # Store the chapter content
                                 if title not in chapters:
-                                    chapters[title] = "\n".join(chapter_content)
+                                    chapters[title] = "\n\n".join(chapter_content)
 
                 except Exception as e:
                     print(f"Error processing document: {e}")

@@ -1,115 +1,227 @@
 # The Dweller in the Gulf
 
 
+
 SWELLING AND TOWERING swiftly, like a genie loosed from one of Solomon’s bottles, the cloud rose on the planet’s rim. A rusty and colossal column, it strode above the dead plain, through a sky that was dark as the brine of desert seas that have ebbed down to desert pools.
+
 S
+
 WELLING
+
 AND
+
 TOWERING
+
 “Looks like a blithering sandstorm,” commented Maspic.
+
 “It can’t very well be anything else,” agreed Bellman rather curtly. “Any other kind of storm is unheard of in these regions. It’s the sort of hell-twister that the Aihais call the zoorth — and it’s coming our way, too. I move that we start looking for shelter. I’ve been caught in the zoorth before, and I don’t recommend a lungful of that ferruginous dust.”
+
 zoorth
+
 “There’s a cave in the old river bank, to the right,” said Chivers, the third member of the party, who had been searching the desert with restless, falconlike eyes.
+
 The trio of earthmen, hard-bitten adventurers who disdained the services of Martian guides, had started five days before from the outpost of Ahoom, into the uninhabited region called the Chaur. Here, in the beds of great rivers that had not flowed for cycles, it was rumored that the pale, platinum-like gold of Mars could be found lying in heaps, like so much salt. If fortune were propitious, their years of somewhat unwilling exile on the red planet would soon be at an end. They had been warned against the Chaur, and had heard some queer tales in Ahoom regarding the reasons why former prospectors had not returned. But danger, no matter how dire or exotic, was merely a part of their daily routine. With a fair chance of unlimited gold at the journey’s end they would have gone down through Hinnom.
+
 Their food-supplies and water-barrels were carried on the backs of three of those curious mammals called vortlups, which, with their elongated legs and necks, and horny-plated bodies, might seemingly have been some fabulous combination of llama and saurian. These animals, though extravagantly ugly, were tame and obedient, and were well adapted to desert travel, being able to go without water for months at a time.
+
 vortlups,
+
 For the past two days they had followed the mile-wide course of a nameless ancient river, winding among hills that had dwindled to mere hummocks through aeons of exfoliation. They had found nothing but worn boulders, pebbles and fine rusty sand. Heretofore the sky had been silent and stirless; and nothing moved on the river-bottom, whose stones were bare even of dead lichen. The malignant column of the zoorth, twisting and swelling toward them, was the first sign of animation they had discerned in that lifeless land.
+
 zoorth,
+
 Prodding their vortlups with the iron-pointed goads which alone could elicit any increase of speed from these sluggish monsters, the earthmen started off toward the cavern-mouth descried by Chivers. It was perhaps a third of a mile distant, and was high up in the shelving shore.
+
 vortlups
+
 The zoorth had blotted out the sun ere they reached the bottom of the ancient slope, and they moved through a sinister twilight that was colored like dried blood. The vortlups, protesting with unearthly bellows, began to climb the beach, which was marked off in a series of more or less regular steps that indicated the slow recession of its olden waters. The column of sand, rising and whirling formidably, had reached the opposite bank when they came to the cavern.
+
 This cavern was in the face of a low cliff of iron-veined rock. The entrance had crumbled down in heaps of ferro-oxide and dark basaltic dust, but was large enough to admit with ease the earthmen and their laden beasts of burden. Darkness, heavy as if with a weaving of black webs, clogged the interior. They could form no idea of the cave’s dimensions till Bellman got out an electric torch from his bale of belongings and turned its prying beam into the shadows.
+
 The torch served merely to reveal the beginnings of a chamber of indeterminate size that ran backward into night, widening gradually, with a floor that was worn smooth as if by vanished waters.
+
 The opening had grown dark with the onset of the zoorth. A weird moaning as of baffled demons filled the ears of the explorers, and particles of atomlike sand were blown in upon them, stinging their hands and faces like powdered adamant.
+
 zoorth.
+
 “The storm will last for half an hour, at least,” said Bellman. “Shall we go on into the cave? Probably we won’t find anything of much interest or value. But the exploration will serve to kill time. And we might happen on a few violet rubies or amber-yellow sapphires, such as are sometimes discovered in these desert caverns. You two had better bring along your torches also, and flash them on the walls and ground as we go.”
+
 His companions thought the suggestion worth following. The vortlups, wholly insensible to the blowing sand in their scaly mail, were left behind near the entrance. Chivers, Bellman and Maspic, with their torch-beams tearing a clotted gloom that had perhaps never known the intrusion of light in all its former cycles, went on into the widening cave.
+
 The place was bare, with the death-like emptiness of some long-deserted catacomb. Its rusted floor and walls returned no gleam or sparkle to the playing lights. It sloped downward at an easy gradient and the sides were water-marked at a height of six or seven feet. No doubt it had been in earlier aeons the channel of an underground offshoot from the river. It had been swept clean of all detritus, and was like the interior of some Cyclopean conduit that might give upon a sub-Martian Erebus.
+
 None of the three adventurers was overly imaginative or prone to nervousness. But all were beset by certain odd impressions. Behind the arras of cryptic silence, time and again they seemed to hear a faint whisper, like the sigh of sunken seas far down at some hemispheric depth. The air was tinged with a slight and doubtful dankness, and they felt the stirring of an almost imperceptible draft upon their faces. Oddest of all was the hint of a nameless odor, reminding them both of animal dens and the peculiar smell of Martian dwellings.
+
 “Do you suppose well encounter any kind of life?” said Maspic, sniffing the air dubiously.
+
 “Not likely.” Bellman dismissed the query with his usual curtness. “Even the wild vortlups avoid the Chaur.”
+
 “But there’s certainly a touch of dampness in the air,” persisted Maspic. “That means water, somewhere; and if there is water, there may be life also — perhaps of a dangerous kind.”
+
 “We’ve got our revolvers,” said Bellman. “But I doubt if we’ll need them — as long as we don’t meet any rival gold-hunters from the Earth,” he added cynically.
+
 “Listen.” The semi-whisper came from Chivers. “Do you fellows hear anything?”
+
 All three had paused. Somewhere in the gloom ahead, they heard a prolonged, equivocal noise that baffled the ear with incongruous elements. It was a sharp rustling and rattling as of metal dragged over rock, and also it was somehow like the smacking of myriad wet, enormous mouths. Anon it receded and died out at a level that was seemingly far below.
+
 “That’s queer.” Bellman seemed to make a reluctant admission.
+
 “What is it?” queried Chivers. “One of the millipedal underground monsters, half a mile long, that the Martians tell about?”
+
 “You’ve been hearing too many native fairy-tales,” reproved Bellman. “No terrestrial has ever seen anything of that kind. Many deep-lying caverns on Mars have been thoroughly explored: but those in desert regions, such as the Chaur, were devoid of life. I can’t imagine what could have made that noise; but, in the interests of science, I’d like to go on and find out.”
+
 “I’m beginning to feel creepy,” said Maspic. “But I’m game if you others are.”
+
 Without further argument or comment, the three continued their advance into the cave. They had been walking at a fair gait for fifteen minutes, and were now at least half a mile from the entrance. The floor was steepening as if it had been the bed of a torrent. Also, the conformation of the walls had changed: on either hand there were high shelves of metallic stone and columnated recesses which the flashed rays of the torches could not always fathom.
+
 The air had grown heavier, the dampness unmistakable. There was a breath of stagnant ancient waters. That other smell, as of wild beasts and Aihai dwellings, also tainted the gloom with its clinging fetor.
+
 Bellman was leading the way. Suddenly his torch revealed the verge of a precipice, where the olden channel ended sheerly and the shelves and walls pitched away on each side into incalculable space. Going to the very edge, he dipped his pencil of light adown the abyss, disclosing only the vertical cliff that fell at his feet into darkness with no apparent bottom. The beam also failed to reach the further shore of the gulf, which might have been many leagues in extent.
+
 “Looks as if we had found the original jumping-off place,” observed Chivers. Looking about, he secured a loose lump of rock the size of a small boulder, which he hurled as far out as he could into the abysm. The earthmen listened for the sound of its fall; but several minutes went by, and there was no echo from the black profound.
+
 Bellman started to examine the broken-off ledges on either side of the channel’s terminus. To the right he discerned a downward-sloping shelf that skirted the abyss, running for an uncertain distance. Its beginning was little higher than the channel-fed, and was readily accessible by means of a stair-like formation, The shelf was two yards wide and its gentle inclination, its remarkable evenness and regularity conveyed the idea of an ancient road hewn in the face of the cliff. It was overhung by the wall, as if by the sharply sundered half of a high arcade.
+
 “There’s our road to Hades,” said Bellman. “And the downgrade is easy enough at that.”
+
 “What’s the use of going further?” said Maspic. “I, for one, have had enough darkness already. And if we were to find anything by going on, it would be valueless — or unpleasant.”
+
 Bellman hesitated. “Maybe you’re right. But I’d like to follow that ledge far enough to get some idea of the magnitude of the gulf. You and Chivers can wait here, if you’re afraid.”
+
 Chivers and Maspic, apparently, were unwilling to avow whatever trepidation they might have felt. They followed Bellman along the shelf, hugging the inner wall. Bellman, however, strode carelessly on the verge, often flashing his torch into the vastitude that engulfed its feeble beam.
+
 More and more, through its uniform breadth, inclination and smoothness, and the demi-arch of cliff above, the shelf impressed the earthmen as being an artificial road But who could have made and used it? In what forgotten ages and for what enigmatic purpose had it been designed? The imagination of the terrestrials failed before the stupendous gulfs of Martian antiquity that yawned in such tenebrous queries.
+
 Bellman thought that the wall curved inward upon itself by slow degrees. No doubt they would round the entire abyss in time by following the road. Perhaps it wound in a slow, tremendous spiral, ever downward, about and about, to the very bowels of Mars.
+
 He and the others were awed into lengthening intervals of silence. They were horribly startled, when, as they went on, they heard in the depths beneath the same peculiar long-drawn sound or combination of sounds which they had heard in the outer cavern. It suggested other images now: the rustling was a file-like scraping; the soft, methodical, myriad smacking was vaguely similar to the noise made by some enormous creature that withdraws its feet from a quagmire.
+
 The sound was inexplicable, terrifying. Part of its terror lay in an implication of remoteness, which appeared to signalize the enormity of its cause, and to emphasize the profundity of the abysm. Heard in that planetary pit beneath a lifeless desert it astonished — and shocked. Even Bellman, intrepid heretofore, began to succumb to the formless horror that rose up like an emanation from the night.
+
 remoteness,
+
 The noise grew fainter and ceased at length, giving somehow the idea that its maker had gone directly down on the perpendicular wall into nether reaches of the gulf.
+
 “Shall we go back?” inquired Chivers.
+
 “We might as well ,” assented Bellman without demur. “It would take all eternity to explore this place anyway.”
+
 They started to retrace their way along the ledge. All three, with that extra-tactile sense which warns of the approach of hidden danger, were now troubled and alert. Though the gulf had grown silent once more with that withdrawal of the strange noise, they somehow felt that they were not alone. Whence the peril would come, or in what shape, they could not surmise; but they felt an alarm that was almost panic. Tacitly, none of them mentioned it; nor did they discuss the eerie mystery on which they had stumbled in a manner so fortuitous.
+
 Maspic was a little ahead of the others now. They had covered at least half of the distance to the old cavern-channel, when his torch, playing for twenty feet ahead on the path, illumined an array of whitish figures, three abreast, that blocked the way. The flashlights of Bellman and Chivers, coming close behind, brought out with hideous clearness the vanward limbs and faces of the throng, but could not determine its number.
+
 The creatures, who stood perfectly motionless and silent, as if awaiting the earthmen, were generically similar to the Aihais or Martian natives. They seemed however, to represent an extremely degraded and aberrant type, and the fungus-like pallor of their bodies denoted many ages of underground life. They were smaller too, than full-grown Aihais, being, on the average, about five feet tall. They possessed the enormous open nostrils. the flaring ears, the barrel chests and lanky limbs of the Martians — but all of them were eyeless. In the faces of some, there were faint, rudimentary slits where the eyes should have been; in the faces of others, there were deep and empty orbits that suggested a removal of the eyeballs.
+
 “Lord! what a ghastly crew!” cried Maspic. “Where do they come from? and what do they want?”
+
 “Can’t imagine,” said Bellman. “But our situation is somewhat ticklish — unless they are friendly. They must have been hiding on the shelves in the cavern above when we entered.”
+
 Stepping boldly forward, ahead of Maspic, he addressed the creatures in the guttural Aihai tongue, many of whose vocables are scarcely to be articulated by an earthman. Some of the people stirred uneasily, and emitted shrill, cheeping sounds that bore little likeness to the Martian language. It was plain that they could not understand Bellman. Sign-language, by reason of their blindness, would have been equally useless.
+
 Bellman drew his revolver, enjoining the others to follow suit. “We’ve got to get through them somehow,” he said “And if they won’t let us pass without interference—” the click of a cocked hammer served to finish the sentence.
+
 As if the metallic sound had been an awaited signal the press of blind white beings sprang into sudden motion and surged forward upon the terrestrials. It was like the onset of automatons — an irresistible striding of machines, concerted and methodical, beneath the direction of a hidden power.
+
 Bellman pulled his trigger, once, twice, thrice, at a point-blank range. It was impossible to miss; but the bullets were futile as pebbles flung at the spate of an onrushing torrent. The eyeless beings did not waver, though two of them began to bleed the yellowish-red fluid that serves the Martians for blood. The foremost of them, unwounded, and moving with diabolical sureness, caught Bellman’s arm with long, four-jointed fingers, and jerked the revolver from his grasp before he could press the trigger again. Curiously enough. the creature did not try to deprive him of his torch, which he now carried in his left hand; and he saw the steely flash of the Colt, as it hurtled down into darkness and space from the hand of the Martian. Then the fungus-white bodies, milling horribly on the narrow road, were all about him, pressing so closely that there was no room for effectual resistance.
+
 Chivers and Maspic, after firing a few shots, were also deprived of their weapons, but, through an uncanny discrimination, were permitted to retain their flashlights.
+
 The entire episode had been a matter of moments. There was only a brief slackening of the onward motion of the throng, two of whose members had been shot down by Chivers and Maspic and then hurled expeditiously into the gulf by their fellows. The foremost ranks, opening deftly, included the earthmen and forced them to turn backward. Then, tightly caught in a moving vice of bodies, they were borne resistlessly along. Handicapped by the fear of dropping their torches, they could do nothing against the nightmare torrent. Rushing with dreadful strides on a path that led ever deeper into the abyss, and able to see only the lit backs and members of the creatures before them, they became a part of that eyeless and cryptic army.
+
 Behind them, there seemed to be scores of the Martians, driving them on implacably. After awhile, their plight began to paralyze their faculties. It seemed that they moved no longer with human steps, but with the swift and automatic stalking of the clammy things that pressed about them. Thought, volition, even terror, were numbed by the unearthly rhythm of those abyssward-beating feet. Constrained by this, and by a sense of utter unreality, they spoke only at long intervals, and then in monosyllables that appeared to have lost all proper meaning, like the speech of machines. The blind people were wholly silent — there was no sound, except that of a myriad, eternal padding on the stone.
+
 On, on they went, through ebon hours that belonged to no diurnal period. Slowly, tortuously, the road curved inward, as if it were coiled about the interior of a blind and cosmic Babel. The earthmen felt that they must have circled the abyss many times in that terrific spiral; but the distance they had gone, and the actual extent of the stupefying gulf, were inconceivable.
+
 Except for their torches, the night was absolute, unchangeable. It was older than the sun, it had brooded there through all past aeons. It accumulated above them like a monstrous burden; it yawned frightfully beneath. From it, the strengthening stench of stagnant waters rose. But still there was no sound other than the soft and measured thud of marching feet that descended into a bottomless Abaddon.
+
 Somewhere, as if after the lapse of nocturnal ages, the pitward rushing had ceased. Bellman, Chivers and Maspic felt the pressure of crowded bodies relax; felt that they were standing still, while their brains continued to beat the unhuman measure of that terrible descent
+
 Reason — and horror — returned to them slowly. Bellman lifted his flashlight, and the circling ray recovered the throng of Martians, many of whom were dispersing in a huge cavern where the gulf-circling road had now ended. Others of the beings remained, however, as if to keep guard over the earthmen. They quivered alertly at Bellman’s movements as if aware of them through an unknown sense.
+
 Close at hand, on the right, the level floor ended abruptly, and stepping to the verge, Bellman saw that the cavern was an open chamber in the perpendicular wall. Far, far below in the blackness, a phosphorescent glimmer played to and fro, like noctilucae on an underworld ocean. A slow, fetid wind blew upon him; and he heard the weird sighing of waters about the sunken cliffs: waters that had ebbed through untold cycles, during the planet’s dessication.
+
 He turned giddily away. His companions were examining the cave’s interior. It seemed that the place was of artificial origin; for, darting here and there, the torch-beams brought out enormous columnations lined with deeply graven bas-reliefs. Who had carved them or when, were problems no less insoluble than the origin of the cliff-hewn road. Their details were obscene as the visions of madness, they shocked the eye like a violent blow, conveying an extra-human evil, a bottomless malignity, in the passing moment of disclosure.
+
 The cave was indeed of stupendous extent, running far back in the cliff, and with numerous exits, giving, no doubt, on further ramifications. The beams of the flashlights half dislodged the flapping shadows of shelved recesses; caught the salients of far walls that climbed and beetled into inaccessible gloom; played on the creatures that went to and fro like monstrous living fungi; gave to a brief visual existence the pale and polyp-like plants that clung noisomely to the nighted stone.
+
 The place was overpowering, it oppressed the senses, crushed the brain. The very stone was like an embodiment of darkness; and light and vision were ephemeral intruders in this demesne of the blind. Somehow, the earthmen were weighed down by a conviction that escape was impossible. A strange lethargy claimed them. They did not even discuss their situation, but stood listless and silent.
+
 Anon, from the filthy gloom, a number of the Martians reappeared. With the same suggestion of controlled automatism that had marked all their actions, they gathered about the men once more, and urged them into the yawning cavern.
+
 Step by step, the three were borne along in that weird and leprous procession. The obscene columns multiplied, the cave deepened before them with endless vistas, like a revelation of foul things that drowse at the nadir of night. Faintly at first, but more strongly as they went on, there came to them an insidious feeling of somnolence, such as might have been caused by mephitical effluvia. They rebelled against it, for the drowsiness was somehow dark and evil. It grew heavier upon them — and then they came to the core of the horror.
+
 Between the thick and seemingly topless pillars, the floor ascended in an altar of seven oblique and pyramidal tiers. On the top, there squatted an image of pale metal: a thing no larger than a hare, but monstrous beyond all imagining.
+
 The Martians crowded about the earthmen. One of them took Bellman by the arm, as if urging him to climb the altar. With the slow steps of a dreamer, he mounted the sloping tiers, and Chivers and Maspic followed.
+
 The image resembled nothing they had ever seen on the red planet — or elsewhere. It was carven of whitish gold, and it represented a humped animal with a smooth and overhanging carapace from beneath which its head and members issued in tortoise fashion. The head was venomously flat, triangular — and eyeless. From the drooping corners of the cruelly slitted mouth, two long proboscides curved upward, hollow and cuplike at the ends. The thing was furnished with a series of short legs, issuing at uniform intervals from under the carapace, and a curious double tail was coiled and braided beneath its crouching body. The feet were round, and had the shape of small, inverted goblets.
+
 Unclean and bestial as a figment of some atavistic madness, the eidolon seemed to drowse on the altar. It troubled the mind with a slow, insidious horror, it assailed the senses with an emanating stupor, an effluence as of primal worlds before the creation of light, where life might teem and raven slothfully in the blind ooze.
+
 Dimly the earthmen saw that the altar swarmed with the blind Martians, who were crowding past them about the image. As if in some fantastic ritual of touch, these creatures were fondling the eidolon with their lank fingers, were tracing its loathsome outlines. Upon their brutal faces a narcotic ecstasy was imprinted. Compelled like sleepers in some abhorrent dream, Bellman, Chivers and Maspic followed their example.
+
 The thing was cold to the touch, and clammy as if it had lain recently in a bed of slime. But it seemed to live, to throb and swell under their finger-tips. From it, in heavy, ceaseless waves, a dark vibration surged: an opiate power that clouded the eyes; that poured its baleful slumber into the blood.
+
 With senses that swam in a strange darkness, they were vaguely aware of the pressure of thronging bodies that displaced them at the altar-summit. Anon, certain of these, recoiling as if satiate with the drug-like effluence, bore them along the oblique tiers to the cavern-floor. Still retaining their torches in nerveless fingers, they saw that the place teemed with the white people, who had gathered for that unholy ceremony. Through blackening blurs of shadow, the men watched them as they seethed up and down on the pyramid like a leprous, living frieze.
+
 Chivers and Maspic, yielding first to the influence, slid to the floor in utter sopor. But Bellman, more resistant, seemed to fall and drift through a world of lightless dreams. His sensations were anomalous, unfamiliar to the last degree. Everywhere there was a brooding, palpable Power for which he could find no visual image: a Power that exhaled a miasmal slumber. In those dreams, by insensible graduations, forgetting the last glimmer of his human self, he somehow identified himself with the eyeless people; he lived and moved as they, in profound caverns, on nighted roads. And yet he was something else: an Entity without name that ruled over the blind and was worshipped by them; a thing that dwelt in the ancient putrescent waters, in the nether deep, and came forth at intervals to raven unspeakably. In that duality of being, he sated himself at blind feasts — and was also devoured. With all this, like a third element of identity, the eidolon was associated: but only a tactile sense, and not as an optic memory. There was no light anywhere — and not even the recollection of light.
+
 palpable
+
 Whether he passed from these obscure nightmares into dreamless slumber, he could not know. His awakening, dark and lethargic, was like a continuation of the dreams at first. Then, opening his sodden lids, he saw the shaft of fight that lay on the floor front his fallen torch. The light poured against something that he could not recognize in his drugged awareness. Yet it troubled him, and a dawning horror touched his faculties into life.
+
 By degrees, it came to him that the thing he saw was the half-eaten body of one of the eyeless troglodytes. Some of the members were missing; and the remainder was gnawed even to the curiously articulated bones.
+
 Bellman rose unsteadily and looked about with eyes that still held a web-like blurring of shadow. Chivers and Maspic lay beside him in heavy stupor; and along the cavern and upon the seven-tiered altar were sprawled the devotees of the somnific image.
+
 His other senses began to awake from their lethargy, and he thought that he heard a noise that was somehow familiar: a sharp slithering, together with a measured sucking. The sound withdrew among the massy pillars, beyond the sleeping bodies. A smell as of rotten water tinged the air, and he saw that there were many curious rings of wetness on the stone, such as might be made by the rims of inverted cups. Preserving the order of footprints, they led away from the half-devoured Martian, into the shadows of that outer cave which verged upon the abyss; the direction in which the queer noise had passed, sinking now to inaudibility.
+
 In Bellman’s mind a mad terror rose and struggled with the spell that still benumbed him. He stooped down above Maspic and Chivers, and shook them roughly in turn, till they opened their eyes and began to protest with drowsy murmurs.
+
 “Get up, damn you,” he admonished them. “If we’re ever to escape from this hell-hole, now’s the time.”
+
 By dint of many oaths and objurgations and much muscular effort, he succeeded in getting his companions to their feet. Lurching drunkenly, they followed Bellman among the sprawled Martians, away from the pyramid on which the eidolon of white gold still brooded in malign somnolence above its worshippers.
+
 A clouding heaviness hung upon Bellman; but somehow there was a relaxation of the opiate spell. He felt a revival of volition and a great desire to escape from the gulf and from all that dwelt in its darkness. The others, more deeply enslaved by the drowsy power, accepted his leadership and guidance in a numb, brute-like fashion.
+
 He felt sure that he could retrace the route by which they had approached the altar. This, it seemed, was also the course that had been taken by the maker of the ring-like marks of fetid wetness. Wandering on amid the repugnantly carven columns for what seemed an enormous distance, they came at last to the sheer verge, that portice of the black Tartarus, from which they could look down on its ultimate gulf. Far beneath, on those putrefying waters, the phosphorescence ran in widening circles, as if troubled by the plunge of a heavy body. To the very edge, at their feet, the watery rings were imprinted on the rock.
+
 They turned away, Bellman, shuddering with half-memories of his blind dreams, and the terror of his awakening, found at the cave’s corner the beginning of that upward road which skirted the abyss: the road that would take them back to the lost sun.
+
 At his injunction, Maspic and Chivers turned off their flashlights to conserve the batteries. It was doubtful how much longer these would last and light was their prime necessity. His own torch would serve for the three till it became exhausted.
+
 There was no sound or stirring of life from that cave of lightless sleep where the Martians lay about the narcotizing image. But a fear such as he had never felt in all his adventurings caused Bellman to sicken and turn faint as he listened at its threshold.
+
 The gulf, too, was silent; and the circles of phosphor had ceased to widen on the waters. Yet somehow the silence was a thing that clogged the senses, retarded the limbs. It rose up around Bellman like the clutching slime of some nethermost pit, in which he must drown. With dragging effort he began the ascent, hauling, cursing and kicking his companions till they responded like drowsy animals.
+
 It was a climb through Limbo, an ascent from nadir through darkness that seemed palpable and viscid. On and up they toiled, along the monotonous, imperceptibly winding grade where all measure of distance was lost, and time was meted only by the repetition of eternal steps. The night lowered before Bellman’s feeble shaft of light; it closed behind like an all-engulfing sea, relentless and patient; biding its time till the torch should go out.
+
 Looking over the verge at intervals, Bellman saw the gradual fading of the phosphorescence in the depths. Fantastic images rose in his mind, it was like the last glimmering of hell-fire in some extinct inferno; like the drowning of nebulae in voids beneath the universe. He felt the giddiness of one who looks down upon infinite space... Anon there was only blackness; and he knew by this token the awful distance they had climbed.
+
 The minor urges of hunger, thirst, fatigue, had been trod under by the fear that impelled him. From Maspic and Chivers, very slowly, the clogging stupor lifted, and they too were conscious of an adumbration of terror vast as the night itself. The blows and kicks and objurgations of Bellman were no longer needed to drive them on.
+
 Evil, ancient, soporous, the night hung about them. It was like the thick and fetid fur of bats: a material thing that choked the lungs, that deadened all the senses. It was silent as the slumber of dead worlds... But out of that silence, after the lapse of apparent years, a twofold and familiar sound arose and overtook the fugitives: the sound of something that slithered over stone far down in the abyss: the sucking noise of a creature that withdrew its feet as if from a quagmire. Inexplicable, and arousing mad, incongruous ideas, like a sound heard in delirium, it quickened the earthmen’s terror into sudden frenzy,
+
 “God! what is it?” breathed Bellman. He seemed to remember sightless things, abhorrent, palpable shapes of primal night, that were no legitimate part of human recollection. His dreams and his nightmare awakening in the cave — the white eidolon — the half-eaten troglodyte of the nether cliffs — the rings of wetness, leading toward the gulf — all returned like the figments of a teeming madness, all to assail him on that terrible road midway between the underworld sea and the surface of Mars.
+
 His question was answered only by a continuation of the noise. It seemed to grow louder — to ascend the wall beneath. Maspic and Chivers, snapping on their lights, began to run with frantic leaps; and Bellman, losing his last remnant of control, followed suit.
+
 It was a race with unknown horror. Above the labored beating of their hearts, the measured thudding of their feet, the men still heard that sinister, unaccountable sound. They seemed to race on through leagues of blackness; and yet the noise drew nearer, climbing below them, as if its maker were a thing that walked on the sheer cliff.
+
 Now the sound was appallingly close — and a little ahead. It ceased abruptly. The running lights of Maspic and Chivers, who moved abreast, discovered the crouching thing that filled the two-yard shelf from side to side.
+
 Hardened adventurers though they were the men would have shrieked aloud with hysteria, or would have hurled themselves from the precipice, if the sight had not induced a kind of catalepsy. It was as if the pale idol of the pyramid, swollen to mammoth proportions, and loathsomely alive, had come up from the abyss and was squatting before them!
+
 alive,
+
 Here, plainly, was the creature that had served as a model for that atrocious image. The humped, enormous carapace, vaguely recalling the armor of the glyptodon, shone with a luster as of wet white gold. The eyeless head, alert but sonmolent, was thrust forward on a neck that arched obscenely. A dozen or more of short legs, with goblet-shapen feet, protruded slantwise beneath the overhanging shell. The two proboscides, yard-long, with cupped ends, arose from the corners of the cruelly slitted mouth and waved slowly in air toward the earthmen.
+
 The thing, it seemed, was old as that dying planet, an unknown form of primal life that had dwelt always in the caverned waters. Before it, the faculties of the earthmen were drugged by an evil stupor, such as they had felt before the eidolon. They stood with their flashlights playing full on the Terror; and they could not move nor cry out when it reared suddenly erect, revealing its ridged belly and the queer double tail that slithered and rustled metallically on the rock. Its numerous feet, beheld in this posture, were hollow and chalice-like, and they oozed with mephitic wetness. No doubt they served for suction-pads, enabling it to walk on a perpendicular surface.
+
 Inconceivably swift and sure in all its motions, with short strides on its hindmost legs, levered by the tail, the monster came forward on the helpless men. Unerringly the two proboscides curved over, and their ends came down on Chivers’ eyes as he stood with lifted face. They rested there, covering the entire sockets — for a moment only. Then there was an agonizing scream, as the hollow tips were withdrawn with a sweeping movement lithe and vigorous as the lashing of serpents.
+
 Chivers swayed slowly, nodding his head, and twisting about in half-narcotised pain. Maspic, standing at his side, saw in a dull and dream-like manner the gaping orbits from which the eyes were gone. It was the last thing that he ever saw. At that instant the monster turned from Chivers, and the terrible cups dripping with blood and fetor, descended on Maspic’s own eyes.
+
 Bellman, who had paused close behind the others, comprehended what was occurring like one who witnesses the abominations of a nightmare but is powerless to intervene or flee. He saw the movements of the cupped members, he heard the single atrocious cry that was wrung from Chivers, and the swiftly ensuing scream of Maspic. Then, above the heads of his fellows, who still held their useless torches in rigid fingers, the proboscides came toward him...
+
 With blood rilling heavily upon their faces, with the somnolent, vigilant, implacable and eyeless Shape at their heels, herding them on, restraining them when they tottered at the brink, the three began their second descent of the road that went down forever to a night-bound Avernus.
