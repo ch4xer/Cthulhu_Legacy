@@ -4,6 +4,9 @@
 
 ## TODO
 
-- [ ] 篇章搜集python脚本
-  - [ ] 虚境奇谭 (Clark Ashton Smith)
+- [ ] 原版文章提取
+  - [ ] 克苏鲁神话 (H.P. Lovecraft Visiones)
+  - [x] 虚境奇谭 (Clark Ashton Smith)
   - [ ] 狂想天外 (August W. Derleth)
+- [ ] 对提取后的文本进行清洗和格式化
+- [ ] 生成中文翻译
