@@ -22,7 +22,9 @@ def sanitize_filename(name):
     return name.replace(" ", "_")
 
 
-def extract_chapters(epub_paths, titles, output_dir) -> tuple[list[str], list[str]]:
+def extract_chapters(
+    epub_paths, titles, output_dir
+) -> tuple[dict[str, str], list[str]]:
     """Extract chapters from epub file based on provided titles"""
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -85,7 +87,7 @@ def extract_chapters(epub_paths, titles, output_dir) -> tuple[list[str], list[st
                 except Exception as e:
                     print(f"Error processing document: {e}")
 
-    find = []
+    find = {}
     missed = []
     # Save extracted chapters as markdown files
     for index, title in enumerate(titles):
@@ -97,7 +99,7 @@ def extract_chapters(epub_paths, titles, output_dir) -> tuple[list[str], list[st
             with open(output_path, "w", encoding="utf-8") as f:
                 f.write(f"# {title}\n\n")
                 f.write(content)
-            find.append(title)
+            find[title] = content
         else:
             missed.append(title)
 
@@ -114,36 +116,49 @@ def title_file_convert(json_file: str):
         data = json.load(f)
         for k, v in data.items():
             temp_data = {}
-            temp_data["chinese"] = k
-            temp_data["english"] = v
+            temp_data["title_cn"] = k
+            temp_data["title"] = v
             another_data.append(temp_data)
             print(another_data)
-    json.dump(another_data, open("C.A.Smith_1.json", "w"), ensure_ascii=False, indent=4)
+    json.dump(another_data, open("C.A.Smith.json", "w"), ensure_ascii=False, indent=4)
     return titles
 
 
-def load_titles_from_json(json_file: str):
+def load_titles(json_file: str):
     """Load english titles from a JSON file"""
     titles = []
     with open(json_file, "r", encoding="utf-8") as f:
         data = json.load(f)
         for item in data:
-            titles.append(item["english"])
+            titles.append(item["title"])
     return titles
 
 
-def main():
-    titles_file = "C.A.Smith.json"
-    titles = load_titles_from_json(titles_file)
+def merge_author_articles(json_file: str, articles: dict, output_file: str):
+    """Merge author articles into a single JSON file"""
+    with open(json_file, "r", encoding="utf-8") as f:
+        data = json.load(f)
+        output_data = []
+        index = 1
+        for article in data:
+            for title, content in articles.items():
+                if title == article["title"]:
+                    article["content"] = content
+                    article["index"] = index
+                    output_data.append(article)
+                    index += 1
 
-    refs = [
-        "The Ultimate Weird Tales Collection - 133 stories (Clark Ashton Smith) (Z-Library).epub",
-        "The Dark Eidolon and other fantasies (Clark Ashton Smith) (Z-Library).epub",
-        "Complete Works of Clark Ashton Smith (Clark Ashton Smith) (Z-Library).epub",
-    ]
+    json.dump(output_data, open(output_file, "w"), ensure_ascii=False, indent=4)
+
+
+def main():
+    author_articles_file = "C.A.Smith.json"
+    titles = load_titles(author_articles_file)
+
+    refs = ["H.P.Lovecraft_Collection.epub"]
 
     ref_paths = []
-    ref_dir = "ref"
+    ref_dir = "./data/ref"
     for ref in refs:
         abs_path = os.path.join(ref_dir, ref)
         if os.path.exists(abs_path):
@@ -151,10 +166,10 @@ def main():
         else:
             print(f"File {abs_path} does not exist.")
 
-    output_dir = "C.A.Smith"
+    output_dir = "./data/raw/C.A.Smith"
 
-    matched_titles, missed_titles = extract_chapters(ref_paths, titles, output_dir)
-    print(missed_titles)
+    articles, missed = extract_chapters(ref_paths, titles, output_dir)
+    merge_author_articles(author_articles_file, articles, "C.A.Smith_articles.json")
 
 
 if __name__ == "__main__":
